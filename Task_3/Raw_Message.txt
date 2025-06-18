@@ -1,0 +1,1 @@
+The message length limit is 63 bytes
